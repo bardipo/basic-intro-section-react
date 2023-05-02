@@ -1,0 +1,43 @@
+nav .left .first-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+nav .left .first-dropdown:hover .first-content{
+    display: inline-block;
+    left: 30px;
+    top: 50px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+nav .left .first-dropdown:hover .first-content span{
+    display: flex;
+    margin: 20px;
+    margin-left: 30px;
+}
+
+
+nav .left .first-dropdown .first-content{
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    text-align: center;
+    vertical-align: baseline;
+
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+nav .left .first-dropdown .first-content svg{
+
+    margin-right: 5px;
+
+}
