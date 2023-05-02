@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/basic-intro-section-react/static/css/main.e4ba2960.css",
+    "main.js": "/basic-intro-section-react/static/js/main.6691b24e.js",
+    "static/media/image-hero-desktop.png": "/basic-intro-section-react/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "index.html": "/basic-intro-section-react/index.html",
+    "main.e4ba2960.css.map": "/basic-intro-section-react/static/css/main.e4ba2960.css.map",
+    "main.6691b24e.js.map": "/basic-intro-section-react/static/js/main.6691b24e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ba2960.css",
+    "static/js/main.6691b24e.js"
+  ]
+}
